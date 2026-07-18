@@ -1,6 +1,6 @@
 # Hi, I'm Yuechen (Alice) Yang 👋
 
-I'm an incoming **Master of Computational Data Science (MCDS)** student at **Carnegie Mellon University**, with a B.S. in **Applied Mathematics** from **Tongji University**.
+I'm an incoming **Master of Computational Data Science (MCDS)** student at **Carnegie Mellon University**, with a B.S. in **Applied Mathematics** from **Tongji University in China**.
 
 I'm interested in **ML systems, machine learning, and software engineering**. I enjoy turning mathematical ideas into reliable, reproducible code and building systems that connect modeling with real-world data.
 
