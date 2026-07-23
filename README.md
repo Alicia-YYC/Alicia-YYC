@@ -31,7 +31,7 @@ A Python Dash application that brings stock, weather, cryptocurrency, and news d
 
 `Python` · `Dash` · `Data Visualization` · `APIs`
 
-### VisionMLBN for Audio Datasets — Work in Progress
+### [VisionMLBN for Audio Datasets](https://github.com/Alicia-YYC/VisionMLBN-for-audio-datasets)
 
 Research implementation exploring vision-inspired sequence models for audio data. The public repository is currently being cleaned and documented.
 
