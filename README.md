@@ -8,7 +8,7 @@ I'm interested in **ML systems, machine learning, and software engineering**. I 
 
 - 🎓 Incoming MCDS student at Carnegie Mellon University
 - 💼 Experience in GPU performance engineering at NVIDIA and research in missing-data imputation and computational imaging
-- 🌱 Currently strengthening my foundations in data structures and algorithms, ML systems, distributed systems, and software engineering
+- 🌱 Currently focused on ML systems, distributed computing, and reliable ML software
 - 🎯 Seeking **2027 summer internships** in ML engineering, ML systems, and software engineering
 
 ## Featured Projects
