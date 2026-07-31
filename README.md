@@ -4,6 +4,8 @@ I'm an incoming **Master of Computational Data Science (MCDS)** student at **Car
 
 I'm interested in **ML systems, machine learning, and software engineering**. I enjoy turning mathematical ideas into reliable, reproducible code and building systems that connect modeling with real-world data.
 
+[LinkedIn](https://www.linkedin.com/in/yuechen-yang-cmu/)
+
 ## About Me
 
 - 🎓 Incoming MCDS student at Carnegie Mellon University
