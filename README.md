@@ -1,4 +1,4 @@
-# Hi, I'm Yuechen (Alice) Yang 👋
+# Hi, I'm Yuechen (Alicia) Yang 👋
 
 I'm an incoming **Master of Computational Data Science (MCDS)** student at **Carnegie Mellon University**, with a B.S. in **Applied Mathematics** from **Tongji University in China**.
 
